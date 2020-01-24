@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Current Research Interests
+======
+* Machine Learning For Healthcare
+	* Postural Control and Prediction of Falls
+	* Degradation of Cognitive Skills in Neuro-degenerative diseases
+	* Evolution of SensoriMotor Control in Elderlies
+* Multi-Armed Bandits
+	*From real life problems to bandits: Exploitation-Exploration trade-offs with additional constraint and/or assumptions.
+* Human-Assisting AI
+	* Assisted Diagnosis
+	* Pilot Assistance
+	* Semi-Auto Pilot
+  
+  
+
+
 Research experience
 ======
 * 2018 - Now  : Senior Researcher at University of Fribourg, Fribourg, Switzerland 
@@ -27,6 +43,14 @@ Education
 
 Teaching
 ======
+* Advanced Probability and statistics (Bachelor, Mathematics)
+* Linear Algebra (Bachelor, Mathematics)
+* Markov Chains and Martingales (Master, Mathematics)
+* Boolean Logic (Bachelor, Computer Science)
+* Algorithmic (Bachelor, Computer Science)
+* Behavioral Game Theory (Master, Psychology)
+* Global and Local Optimization (Master, Computer Science)
+
 
   
 
