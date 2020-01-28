@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV FILE
-
-
 Current Research Interests
 ======
 * Machine Learning For Healthcare
