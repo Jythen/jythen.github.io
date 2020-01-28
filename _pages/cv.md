@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 
 [Download CV here](http://jythen.github.io/files/audiffren_2019.pdf)
-
-{% include base_path %}
 
 Current Research Interests
 ======
