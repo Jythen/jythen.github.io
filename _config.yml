@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Julien Audiffren Website"
 title_separator          : "-"
 name                     : &name "Julien Audiffren"
 description              : &description "Senior Researcher at Fribourg University"
