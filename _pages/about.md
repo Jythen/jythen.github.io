@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Julien Audiffren Webpage"
+title: "Another Personal Website"
 excerpt: "Main Page"
 author_profile: true
 redirect_from: 
