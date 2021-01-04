@@ -1,29 +1,12 @@
 ---
 permalink: /
-title: "Another Personal Website"
+title: "Welcome to my website"
 excerpt: "Main Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<!-- Default Statcounter code for webpage perso
-https://jythen.github.io/ -->
-<script type="text/javascript">
-var sc_project=12455888; 
-var sc_invisible=1; 
-var sc_security="1bbc64dc"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="website
-statistics" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12455888/0/1bbc64dc/1/"
-alt="website statistics"></a></div></noscript>
-<!-- End of Statcounter Code -->
 
 
 Hello ! 
