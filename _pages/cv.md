@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV here](http://jythen.github.io/files/audiffren_2019.pdf)
+[Download CV here](http://jythen.github.io/files/audiffren_2020.pdf)
 
 Current Research Interests
 ======
