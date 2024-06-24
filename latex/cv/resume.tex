@@ -1,0 +1,123 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{eurosym}
+%\usepackage{pdfpages}
+%====================
+% OFFICIAL PUBLIC OVERLEAF TEMPLATE
+% https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
+% 
+%====================
+%
+% Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
+% https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
+%
+% Files:        resume.tex: Main file
+%               _header.tex: header code
+%               TLCresume.sty: style file containing formatting details
+%               section/objective: https://www.indeed.com/career-advice/resumes-cover-letters/resume-objective-examples
+%               section/skills: table of skills
+%               section/experience: projects or roles
+%               section/education: schools and stuff
+%               section/activities: optional, could comment out in resume.tex.
+%
+% Editor:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+%               
+% Last Updated: March 24th, 2022
+%
+%====================
+
+
+\usepackage{TLCresume}
+\usepackage[
+style=nature,
+sorting=ydnt,
+maxbibnames=99,
+citestyle=alphabetic,
+]{biblatex}
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Julien Audiffren} % Name Here
+\def\phone{(+41) 78-648-43-23}
+\def\city{Fribourg, Switzerland}
+\def\email{julien.audiffren@unifr.ch}
+\def\role{Senior Researcher} % JOB TITLE
+\input{_header.tex}
+\addbibresource{MyPapers.bib}
+\begin{document}
+
+
+\input{sections/objective}
+
+%\hspace{1em}
+
+\section{Education}
+\input{sections/education}
+
+%\hspace{1em}
+
+\section{Professional Employment}
+\input{sections/experience}
+
+%\hspace{1em}
+
+\section{Recent Professor Applications}
+\input{sections/Applications}
+%
+\section{Selected Grants}
+\input{sections/grants}
+
+\section{Teaching Experience}
+%\input{_header2}
+\input{sections/teaching}
+
+%\hspace{1em}
+
+
+
+
+%\hspace{1em}
+
+\section{Advising and Monitoring}
+\input{sections/advising}
+
+%\hspace{1em}
+
+\section{Science Communication}
+\input{sections/science_co}
+
+%\hspace{1em}
+
+\section{Patents}
+\input{sections/publi}
+
+
+\section{Publications}
+
+\nocite{*}
+\printbibliography[keyword=enclosed, title={Five Selected publications}]
+\printbibliography[keyword=mypaper, title={All publications }]%[type=article,title={Journal ublications}]
+%\printbibliography[keyword=theory, title={Fundamental Machine Learning}]%[type=article,title={Journal Publications}]
+%\printbibliography[type=inproceedings,title={Peer-Reviewed Conference Publications}]
+
+\section{References}
+\skills{Pr. Philippe Cudré-Mauroux}, \textit{University of Fribourg}\\	\hfill \url{philippe.cudre-mauroux@unifr.ch}
+
+\skills{Pr. Nicolas Vayatis }, \textit{Ecole Normale Superieure Paris Saclay}\\ \hfill \url{nicolas.vayatis@ens-paris-saclay.fr}
+
+\skills{Pr. Liva Ralaivola }, \textit{University of Aix-Marseille, Criteo AI Lab}\\ \hfill \url{l.ralaivola@criteo.com}
+
+\skills{Dr. Ljiljana Dolamic }, \textit{Armasuisse}\\ \hfill \url{ljiljana.dolamic@armasuisse.ch}
+
+\skills{Pr. Laurent Oudre }, \textit{Ecole Normale Superieure Paris Saclay}\\ \hfill \url{laurent.oudre@ens-paris-saclay.fr}
+
+
+
+
+% make a newpage wherever it is a clean break
+% \newpage
+
+
+\end{document}
+
