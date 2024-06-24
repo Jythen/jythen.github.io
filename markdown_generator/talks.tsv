@@ -1,5 +1,7 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Better Methods to Quantify Perceptual Thresholds	Talk	talk-1	AFC Lab Talk Series, University of Lausanne	2023-06-01	Lausanne, Switzerland		
+Conversational Agents and their impact on Education	Tutorial	tutorial-1	Learning Lab, University of Fribourg	2023-08-31	Fribourg, Switzerland	
+Follow the Path: Hierarchy-Aware Extreme Multi-Label Completion for Semantic Text Tagging	Talk	talk-2	Armasuisse Cyber Alp Retreat	2024-06-20	Sachseln, Switzerland	
+Tasks for Large Language Models and Their Evaluation	Talk	talk-3	Armasuisse Cyber Alp Retreat	2024-06-21	Sachseln, Switzerland	
+Biases in High Dimensional Data Mining	Talk	talk-4	Réseau international francophone de recherche en éducation et formation (REF)	2024-07-03	Fribourg, Switzerland
+Of the strengths and limitations of AI algorithms	Talk	talk-5	AI and the Law: Myths, opportunities and challenges	2024-09-01	Tessin, Switzerland
