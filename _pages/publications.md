@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Five Selected Papers
+### Six Selected Papers
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
