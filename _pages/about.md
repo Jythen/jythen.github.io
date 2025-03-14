@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my webpage !
 =======
 
-I am currently a Senior Researcher and Senior Lecturer (Maître assistant) at the University of Fribourg. My current research topics include Multi-Armed Bandits, Symbolic AI, Natural Language Processing (and LLMs) and ML applied to Healthcare. More details about my current research project and past publications can be found [there](/publications/).
+I am currently a Senior Researcher and Senior Lecturer (Maître assistant) at the University of Fribourg. My current research topics include Theory of AI, Symbolic AI, Natural Language Processing (and LLMs) and ML applied to Healthcare. More details about my current research project and past publications can be found [there](/publications/).
 
 I am also an enthousiastic teacher and science communicator, and more details about this can be found [here](/teaching/.)
 
